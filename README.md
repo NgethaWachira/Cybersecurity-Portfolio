@@ -53,5 +53,4 @@ Skilled professional transitioning from a geospatial background to cybersecurity
 - Ongoing Lab
 - Ongoing Lab
 
-Thank you for visiting my portfolio!
 
