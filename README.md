@@ -1,7 +1,7 @@
 # Hello, I'm James
 This repository showcases a collection of projects and exercises that demonstrate my 
 skills and knowledge in the field of cybersecurity. Here, you’ll find various examples 
-of my work, including:
+of my work:
 
 ## About Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/james-ngetha/)
