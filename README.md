@@ -49,7 +49,7 @@ Skilled professional transitioning from a geospatial background to cybersecurity
 </div>
 
 ## Projects
-- <a href="https://github.com/NgethaWachira/Virtual-Malware-Analysis-Lab/tree/main">Virtual Malware Analysis Lab</a>
+- <a href="https://github.com/NgethaWachira/Virtual-Malware-Analysis-Lab/tree/main" target="_blank">Virtual Malware Analysis Lab</a>
 - Ongoing Lab
 - Ongoing Lab
 
