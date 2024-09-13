@@ -20,7 +20,7 @@ Skilled professional transitioning from a geospatial background to cybersecurity
 | Network Traffic Monitoring and Attack Detection  | <a href="https://google.com">Ongoing Lab</a>|
 | Security Automation with Shuffle SOAR  | <a href="https://google.com">Ongoing Lab</a>|
 | Incident Response Planning and Execution  | <a href="https://google.com">Ongoing Lab</a>|
-| Build an deploying a honeypot       | <a href="https://google.com">Ongoing Lab</a>|
+| Build and deploying a honeypot       | <a href="https://google.com">Ongoing Lab</a>|
 
 
 ## Tools
@@ -50,8 +50,8 @@ Skilled professional transitioning from a geospatial background to cybersecurity
 
 ## Projects
 - <a href="https://github.com/NgethaWachira/Virtual-Malware-Analysis-Lab/tree/main">Virtual Malware Analysis Lab</a>
-- Detection Lab
-- Detection Lab
+- Ongoing Lab
+- Ongoing Lab
 
 Thank you for visiting my portfolio!
 
