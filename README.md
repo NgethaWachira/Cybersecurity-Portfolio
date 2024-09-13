@@ -16,7 +16,7 @@ Skilled professional transitioning from a geospatial background to cybersecurity
 
 | Skills         | Projects    |
 |--------------|-----------|
-| Using a Sandbox Virtual Environment for Malware Analysis and Detection | <a href="https://google.com">Ongoing Lab</a>|
+| Using a Sandbox Virtual Environment for Malware Analysis and Detection | <a href="https://google.com">Virtual Malware Analysis Lab</a>|
 | Network Traffic Monitoring and Attack Detection  | <a href="https://google.com">Ongoing Lab</a>|
 | Security Automation with Shuffle SOAR  | <a href="https://google.com">Ongoing Lab</a>|
 | Incident Response Planning and Execution  | <a href="https://google.com">Ongoing Lab</a>|
