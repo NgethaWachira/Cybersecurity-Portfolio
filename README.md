@@ -17,10 +17,8 @@ Skilled professional transitioning from a geospatial background to cybersecurity
 | Skills         | Projects    |
 |--------------|-----------|
 | Using a Sandbox Virtual Environment for Malware Analysis and Detection | <a href="https://github.com/NgethaWachira/Virtual-Malware-Analysis-Lab/tree/main">Virtual Malware Analysis Lab</a>|
-| Network Traffic Monitoring and Attack Detection  | <a href="https://google.com">Ongoing Lab</a>|
-| Security Automation with Shuffle SOAR  | <a href="https://google.com">Ongoing Lab</a>|
-| Incident Response Planning and Execution  | <a href="https://google.com">Ongoing Lab</a>|
-| Build and deploying a honeypot       | <a href="https://google.com">Ongoing Lab</a>|
+| Creating a Domain Environment: Integrating Active Directory, Splunk, and Threat Simulation using Kali Linux  | <a href="https://google.com">Ongoing Lab</a>|
+| Implementation of Security Orchestration, Automation, and Response (SOAR) solutions in Security Operations Centers (SOCs)  | <a href="https://google.com">Ongoing Lab</a>|
 
 
 ## Tools
