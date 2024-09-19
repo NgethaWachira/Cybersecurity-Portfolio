@@ -17,8 +17,8 @@ Skilled professional transitioning from a geospatial background to cybersecurity
 | Skills         | Projects    |
 |--------------|-----------|
 | Using a Sandbox Virtual Environment for Malware Analysis and Detection | <a href="https://github.com/NgethaWachira/Virtual-Malware-Analysis-Lab/tree/main">Virtual Malware Analysis Lab</a>|
-| Creating a Domain Environment: Integrating Active Directory, Splunk, and Threat Simulation using Kali Linux  | <a href="https://google.com">Ongoing Lab</a>|
-| Implementation of Security Orchestration, Automation, and Response (SOAR) solutions in Security Operations Centers (SOCs)  | <a href="https://google.com">Ongoing Lab</a>|
+| Creating a Domain Environment: Integrating Active Directory, Splunk, and Threat Simulation using Kali Linux  | <a href="https://github.com/NgethaWachira/Setting-up-a-Domain-Environment/tree/main">Setting up a Domain Environment</a>|
+| Implementation of Security Orchestration, Automation, and Response (SOAR) solutions in Security Operations Centers (SOCs)  | <a href="https://google.com">Ongoing Project</a>|
 
 
 ## Tools
@@ -48,7 +48,7 @@ Skilled professional transitioning from a geospatial background to cybersecurity
 
 ## Projects
 - <a href="https://github.com/NgethaWachira/Virtual-Malware-Analysis-Lab/tree/main">Virtual Malware Analysis Lab</a>
-- Ongoing Lab
-- Ongoing Lab
+- <a href="https://github.com/NgethaWachira/Setting-up-a-Domain-Environment/tree/main">Setting up a Domain Environment</a>
+- <a href="https://google.com">Ongoing Project</a>
 
 
