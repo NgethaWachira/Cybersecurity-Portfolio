@@ -17,6 +17,7 @@ Skilled professional transitioning from a geospatial background to cybersecurity
 | Skills         | Projects    |
 |--------------|-----------|
 | Networking practicals including IP addressing, routing protocols, and network security done using Cisco Packet Tracer | <a href="https://github.com/NgethaWachira/Networking-Practicals">Practical Networking Walkthrough</a>|
+| Phishing Analysis Report: Email Security Alert Impersonation | <a href="https://github.com/NgethaWachira/Phishing-Analysis/tree/main">Phishing Analysis Report</a>|
 | Using a Sandbox Virtual Environment for Malware Analysis and Detection | <a href="https://github.com/NgethaWachira/Virtual-Malware-Analysis-Lab/tree/main">Virtual Malware Analysis Lab</a>|
 | Creating a Domain Environment: Integrating Active Directory, Splunk, and Threat Simulation using Kali Linux  | <a href="https://github.com/NgethaWachira/Setting-up-a-Domain-Environment/tree/main">Setting up a Domain Environment</a>|
 | Implementation of Security Orchestration, Automation, and Response (SOAR) solutions in Security Operations Centers (SOCs)  | <a href="https://google.com">Ongoing Project</a>|
@@ -49,6 +50,7 @@ Skilled professional transitioning from a geospatial background to cybersecurity
 
 ## Projects
 - <a href="https://github.com/NgethaWachira/Networking-Practicals">Practical Networking Walkthrough</a>
+- <a href="https://github.com/NgethaWachira/Phishing-Analysis/tree/main">Phishing Analysis Report</a>
 - <a href="https://github.com/NgethaWachira/Virtual-Malware-Analysis-Lab/tree/main">Virtual Malware Analysis Lab</a>
 - <a href="https://github.com/NgethaWachira/Setting-up-a-Domain-Environment/tree/main">Setting up a Domain Environment</a>
 - <a href="https://google.com">Ongoing Project</a>
