@@ -10,19 +10,22 @@ I am cybersecurity professional with a strong background in Identity management,
 
 ## Objective
 
-Skilled professional transitioning from a geospatial background to cybersecurity, equipped with strong skills in data analysis and technical troubleshooting. Seeking a role in cybersecurity to utilize my experience in handling large datasets and risk assessment, while developing new competencies in threat detection and network security.
+Cybersecurity professional with hands-on experience in Identity Management, Malware Analysis, and securing Network, Endpoint, and Cloud environments. Experienced in risk assessment, threat detection, and implementing security measures to safeguard digital assets, while continuously enhancing skills in network defense and advanced cybersecurity techniques.
 
 ## Skills
 
-| Skills         | Projects    |
-|--------------|-----------|
-| Networking practicals including IP addressing, routing protocols, and network security done using Cisco Packet Tracer | <a href="https://github.com/NgethaWachira/Networking-Practicals">Practical Networking Walkthrough</a>|
-| Phishing Analysis Report: Email Security Alert Impersonation | <a href="https://github.com/NgethaWachira/Phishing-Analysis/tree/main">Phishing Analysis Report</a>|
-| Using a Sandbox Virtual Environment for Malware Analysis and Detection | <a href="https://github.com/NgethaWachira/Virtual-Malware-Analysis-Lab/tree/main">Virtual Malware Analysis Lab</a>|
-| Creating a Domain Environment: Integrating Active Directory, Splunk, and Threat Simulation using Kali Linux | <a href="https://github.com/NgethaWachira/Setting-up-a-Domain-Environment/tree/main">Setting up a Domain Environment</a>|
-| Setting Up and Securing Virtual Machines in Azure with Microsoft 365 Defender and Intune | <a href="https://github.com/NgethaWachira/Microsoft-Virtual-machine">Microsoft-Virtual-machine</a>|
-| Implementation of Security Orchestration, Automation, and Response (SOAR) solutions in Security Operations Centers (SOCs)  | <a href="https://google.com">Ongoing Project</a>|
-
+| No. |    Skills    |   Projects   |
+|-----|--------------|--------------|
+| 1 | Networking practicals including IP addressing, routing protocols, and network security done using Cisco Packet Tracer | <a href="https://github.com/NgethaWachira/Networking-Practicals">Practical Networking Walkthrough</a>|
+| 2 | Phishing Analysis Report: Email Security Alert Impersonation | <a href="https://github.com/NgethaWachira/Phishing-Analysis/tree/main">Phishing Analysis Report</a>|
+| 3 | Using a Sandbox Virtual Environment for Malware Analysis and Detection | <a href="https://github.com/NgethaWachira/Virtual-Malware-Analysis-Lab/tree/main">Virtual Malware Analysis Lab</a>|
+| 4 | Creating a Domain Environment: Integrating Active Directory, Splunk, and Threat Simulation using Kali Linux | <a href="https://github.com/NgethaWachira/Setting-up-a-Domain-Environment/tree/main">Setting up a Domain Environment</a>|
+| 5 | Setting Up and Securing Virtual Machines in Azure with Microsoft 365 Defender and Intune | <a href="https://github.com/NgethaWachira/Microsoft-Virtual-machine">Microsoft-Virtual-machine</a>|
+| 6 | Setting up and Configuring Microsoft Sentinel in an Azure environment | <a href="https://github.com/NgethaWachira/Configuring-Microsoft-Sentinel">Configuring-Microsoft-Sentinel</a>|
+| 7 | Setting Up Azure Security and Phishing Simulation with Microsoft Defender | <a href="https://github.com/NgethaWachira/Azure-Security-and-Simulation">Azure-Security-and-Simulation</a>|
+| 8 | Configuring and Managing Analytics Rules and Automation in Microsoft Sentinel | <a href="https://github.com/NgethaWachira/Microsoft-Sentinel-Analytics-Configuration">Microsoft-Sentinel-Analytics-Configuration</a>|
+| 9 | Mastering Microsoft 365 Security: Tools for Threat Detection, Investigation, and Remediation | <a href="https://github.com/NgethaWachira/Microsoft-365-Security-and-Compliance-Management">Microsoft-365-Security-and-Compliance-Management</a>|
+| 10 | Implementing UEBA, Auditing, and Content Search in Microsoft Sentinel and Azure | <a href="https://github.com/NgethaWachira/Sentinel-Behavior-Analytics-and-Auditing">Sentinel-Behavior-Analytics-and-Auditing</a>|
 
 ## Tools
 
@@ -54,6 +57,11 @@ Skilled professional transitioning from a geospatial background to cybersecurity
 - <a href="https://github.com/NgethaWachira/Phishing-Analysis/tree/main">Phishing Analysis Report</a>
 - <a href="https://github.com/NgethaWachira/Virtual-Malware-Analysis-Lab/tree/main">Virtual Malware Analysis Lab</a>
 - <a href="https://github.com/NgethaWachira/Setting-up-a-Domain-Environment/tree/main">Setting up a Domain Environment</a>
-- <a href="https://google.com">Ongoing Project</a>
+- <a href="https://github.com/NgethaWachira/Microsoft-Virtual-machine">Microsoft-Virtual-machine</a>
+- <a href="https://github.com/NgethaWachira/Configuring-Microsoft-Sentinel">Configuring-Microsoft-Sentinel</a>
+- <a href="https://github.com/NgethaWachira/Azure-Security-and-Simulation">Azure-Security-and-Simulation</a>
+- <a href="https://github.com/NgethaWachira/Microsoft-Sentinel-Analytics-Configuration">Microsoft-Sentinel-Analytics-Configuration</a>
+- <a href="https://github.com/NgethaWachira/Microsoft-365-Security-and-Compliance-Management">Microsoft-365-Security-and-Compliance-Management</a>
+- <a href="https://github.com/NgethaWachira/Sentinel-Behavior-Analytics-and-Auditing">Sentinel-Behavior-Analytics-and-Auditing</a>
 
 
