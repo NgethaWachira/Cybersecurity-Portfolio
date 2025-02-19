@@ -64,5 +64,6 @@ Cybersecurity professional with hands-on experience in Identity Management, Malw
 - <a href="https://github.com/NgethaWachira/Microsoft-Sentinel-Analytics-Configuration">Microsoft-Sentinel-Analytics-Configuration</a>
 - <a href="https://github.com/NgethaWachira/Microsoft-365-Security-and-Compliance-Management">Microsoft-365-Security-and-Compliance-Management</a>
 - <a href="https://github.com/NgethaWachira/Sentinel-Behavior-Analytics-and-Auditing">Sentinel-Behavior-Analytics-and-Auditing</a>
+- <a href="https://github.com/NgethaWachira/Managing-Incidents-in-Microsoft-Sentinel">Managing Incidents in Microsoft Sentinel</a>
 
 
