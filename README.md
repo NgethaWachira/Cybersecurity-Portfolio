@@ -26,6 +26,7 @@ Cybersecurity professional with hands-on experience in Identity Management, Malw
 | 8 | Configuring and Managing Analytics Rules and Automation in Microsoft Sentinel | <a href="https://github.com/NgethaWachira/Microsoft-Sentinel-Analytics-Configuration">Microsoft-Sentinel-Analytics-Configuration</a>|
 | 9 | Mastering Microsoft 365 Security: Tools for Threat Detection, Investigation, and Remediation | <a href="https://github.com/NgethaWachira/Microsoft-365-Security-and-Compliance-Management">Microsoft-365-Security-and-Compliance-Management</a>|
 | 10 | Implementing UEBA, Auditing, and Content Search in Microsoft Sentinel and Azure | <a href="https://github.com/NgethaWachira/Sentinel-Behavior-Analytics-and-Auditing">Sentinel-Behavior-Analytics-and-Auditing</a>|
+| 11 | Incident Management and Response in Microsoft Sentinel | <a href="https://github.com/NgethaWachira/Managing-Incidents-in-Microsoft-Sentinel">Managing Incidents in Microsoft Sentinel</a>|
 
 ## Tools
 
