@@ -1,5 +1,5 @@
 # Hello, I'm James
-This repository documents a collection of projects and exercises that highlight my skills and knowledge in cybersecurity. Inside, you’ll find various examples of my work.
+This repository documents a collection of projects and exercises that highlight my skills and knowledge in cybersecurity. Inside, you'll find various examples of my work, with links to explore each project in detail.
 
 ## About Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/james-ngetha/)
@@ -26,28 +26,10 @@ To apply my strong foundation in cybersecurity to specialize in fortifying syste
 | 11 | Incident Management and Response in Microsoft Sentinel | <a href="https://github.com/NgethaWachira/Managing-Incidents-in-Microsoft-Sentinel">Managing Incidents in Microsoft Sentinel</a>|
 | 12 | Exploring Threat Management and Hunting Queries in Microsoft Sentinel | <a href="https://github.com/NgethaWachira/Investigating-Threats-Using-Sentinel-Queries">Investigating Threats Using Sentinel Queries</a>|
 
-
-| No. |    Skills    |   Projects   |
-|-----|--------------|--------------|
-| 1 | Networking practicals including IP addressing, routing protocols, and network security done using Cisco Packet Tracer | <a href="https://github.com/NgethaWachira/Networking-Practicals" target="_blank">Practical Networking Walkthrough</a>|
-| 2 | Phishing Analysis Report: Email Security Alert Impersonation | <a href="https://github.com/NgethaWachira/Phishing-Analysis" target="_blank">Phishing Analysis Report</a>|
-| 3 | Using a Sandbox Virtual Environment for Malware Analysis and Detection | <a href="https://github.com/NgethaWachira/Virtual-Malware-Analysis-Lab" target="_blank">Virtual Malware Analysis Lab</a>|
-| 4 | Creating a Domain Environment: Integrating Active Directory, Splunk, and Threat Simulation using Kali Linux | <a href="https://github.com/NgethaWachira/Setting-up-a-Domain-Environment" target="_blank">Setting up a Domain Environment</a>|
-| 5 | Setting Up and Securing Virtual Machines in Azure with Microsoft 365 Defender and Intune | <a href="https://github.com/NgethaWachira/Microsoft-Virtual-machine" target="_blank">Microsoft-Virtual-machine</a>|
-| 6 | Setting up and Configuring Microsoft Sentinel in an Azure environment | <a href="https://github.com/NgethaWachira/Configuring-Microsoft-Sentinel" target="_blank">Configuring-Microsoft-Sentinel</a>|
-| 7 | Setting Up Azure Security and Phishing Simulation with Microsoft Defender | <a href="https://github.com/NgethaWachira/Azure-Security-and-Simulation" target="_blank">Azure-Security-and-Simulation</a>|
-| 8 | Configuring and Managing Analytics Rules and Automation in Microsoft Sentinel | <a href="https://github.com/NgethaWachira/Microsoft-Sentinel-Analytics-Configuration" target="_blank">Microsoft-Sentinel-Analytics-Configuration</a>|
-| 9 | Mastering Microsoft 365 Security: Tools for Threat Detection, Investigation, and Remediation | <a href="https://github.com/NgethaWachira/Microsoft-365-Security-and-Compliance-Management" target="_blank">Microsoft-365-Security-and-Compliance-Management</a>|
-| 10 | Implementing UEBA, Auditing, and Content Search in Microsoft Sentinel and Azure | <a href="https://github.com/NgethaWachira/Sentinel-Behavior-Analytics-and-Auditing" target="_blank">Sentinel-Behavior-Analytics-and-Auditing</a>|
-| 11 | Incident Management and Response in Microsoft Sentinel | <a href="https://github.com/NgethaWachira/Managing-Incidents-in-Microsoft-Sentinel" target="_blank">Managing Incidents in Microsoft Sentinel</a>|
-| 12 | Exploring Threat Management and Hunting Queries in Microsoft Sentinel | <a href="https://github.com/NgethaWachira/Investigating-Threats-Using-Sentinel-Queries" target="_blank">Investigating Threats Using Sentinel Queries</a>|
-
-
 ## Tools
 <br>
 
 > "A tool is just a tool—it’s the skill and knowledge behind it that truly matter. Once you understand how to use one tool effectively, that knowledge can easily be applied to others."
-
 
 ### Task Management
 ![ServiceNow](https://img.shields.io/badge/-ServiceNow-ffff4d?&style=for-the-badge&logo=servicenow&logoColor=white)
@@ -58,14 +40,13 @@ To apply my strong foundation in cybersecurity to specialize in fortifying syste
 ### Identity
 ![Microsoft Azure Active Directory](https://img.shields.io/badge/-Azure_Active_Directory-e6f9ff?&style=for-the-badge&logo=microsoft-azure&logoColor=white)
 
+### EDR
+![Microsoft Defender for Endpoint](https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-77773c?&style=for-the-badge&logo=microsoft&logoColor=white)
+
 ### Network
 ![Wireshark](https://img.shields.io/badge/-Wireshark-7cfc00?&style=for-the-badge&logo=Wireshark&logoColor=white)
 ![Suricata](https://img.shields.io/badge/-Suricata-A03A2E?&style=for-the-badge&logo=suricata&logoColor=white)
 ![Nmap](https://img.shields.io/badge/-Nmap-ffb3ff?&style=for-the-badge&logo=nmap&logoColor=white)
-
-### EDR
-![CrowdStrike](https://img.shields.io/badge/-CrowdStrike-F86C6A?&style=for-the-badge&logo=crowdstrike&logoColor=white)
-![Microsoft Defender for Endpoint](https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-77773c?&style=for-the-badge&logo=microsoft&logoColor=white)
 
 ### SIEM
 ![Splunk](https://img.shields.io/badge/-Splunk-e000a3?&style=for-the-badge&logo=Splunk&logoColor=white)
