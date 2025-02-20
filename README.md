@@ -65,6 +65,7 @@ To apply my strong foundation in cybersecurity to specialize in fortifying syste
   <img src="https://img.shields.io/badge/-Google_Cybersecurity_Certificate-676767?&style=for-the-badge&logo=google&logoColor=white" alt="Google Cybersecurity Certificate" />
 </div>
 
+<!--
 ## Projects
 - <a href="https://github.com/NgethaWachira/Networking-Practicals">Practical Networking Walkthrough</a>
 - <a href="https://github.com/NgethaWachira/Phishing-Analysis">Phishing Analysis Report</a>
@@ -78,5 +79,5 @@ To apply my strong foundation in cybersecurity to specialize in fortifying syste
 - <a href="https://github.com/NgethaWachira/Sentinel-Behavior-Analytics-and-Auditing">Sentinel-Behavior-Analytics-and-Auditing</a>
 - <a href="https://github.com/NgethaWachira/Managing-Incidents-in-Microsoft-Sentinel">Managing Incidents in Microsoft Sentinel</a>
 - <a href="https://github.com/NgethaWachira/Investigating-Threats-Using-Sentinel-Queries">Investigating Threats Using Sentinel Queries</a>
-
+-->
 
