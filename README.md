@@ -2,7 +2,9 @@
 This repository documents a collection of projects and exercises that highlight my skills and knowledge in cybersecurity. Inside, you’ll find various examples of my work.
 
 ## About Me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/james-ngetha/)
+<a href="https://linkedin.com/in/james-ngetha/" target="_blank">
+  <img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
 
 I am cybersecurity professional with a strong background in Identity management, Malware analysis, Network, Endpoint and Cloud Security. I specialize in safeguarding digital assets and ensuring robust security measures for organizations.
 
