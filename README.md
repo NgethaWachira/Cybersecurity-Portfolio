@@ -27,6 +27,7 @@ Cybersecurity professional with hands-on experience in Identity Management, Malw
 | 9 | Mastering Microsoft 365 Security: Tools for Threat Detection, Investigation, and Remediation | <a href="https://github.com/NgethaWachira/Microsoft-365-Security-and-Compliance-Management">Microsoft-365-Security-and-Compliance-Management</a>|
 | 10 | Implementing UEBA, Auditing, and Content Search in Microsoft Sentinel and Azure | <a href="https://github.com/NgethaWachira/Sentinel-Behavior-Analytics-and-Auditing">Sentinel-Behavior-Analytics-and-Auditing</a>|
 | 11 | Incident Management and Response in Microsoft Sentinel | <a href="https://github.com/NgethaWachira/Managing-Incidents-in-Microsoft-Sentinel">Managing Incidents in Microsoft Sentinel</a>|
+| 12 | Exploring Threat Management and Hunting Queries in Microsoft Sentinel | <a href="https://github.com/NgethaWachira/Investigating-Threats-Using-Sentinel-Queries">Investigating Threats Using Sentinel Queries</a>|
 
 ## Tools
 
@@ -65,5 +66,6 @@ Cybersecurity professional with hands-on experience in Identity Management, Malw
 - <a href="https://github.com/NgethaWachira/Microsoft-365-Security-and-Compliance-Management">Microsoft-365-Security-and-Compliance-Management</a>
 - <a href="https://github.com/NgethaWachira/Sentinel-Behavior-Analytics-and-Auditing">Sentinel-Behavior-Analytics-and-Auditing</a>
 - <a href="https://github.com/NgethaWachira/Managing-Incidents-in-Microsoft-Sentinel">Managing Incidents in Microsoft Sentinel</a>
+- <a href="https://github.com/NgethaWachira/Investigating-Threats-Using-Sentinel-Queries">Investigating Threats Using Sentinel Queries</a>
 
 
