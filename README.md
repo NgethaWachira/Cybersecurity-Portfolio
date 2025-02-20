@@ -1,7 +1,5 @@
 # Hello, I'm James
-This repository showcases a collection of projects and exercises that demonstrate my 
-skills and knowledge in the field of cybersecurity. Here, you’ll find various examples 
-of my work:
+This repository documents a collection of projects and exercises that highlight my skills and knowledge in cybersecurity. Inside, you’ll find various examples of my work:
 
 ## About Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/james-ngetha/)
@@ -9,17 +7,16 @@ of my work:
 I am cybersecurity professional with a strong background in Identity management, Malware analysis, Network, Endpoint and Cloud Security. I specialize in safeguarding digital assets and ensuring robust security measures for organizations.
 
 ## Objective
-
-Cybersecurity professional with hands-on experience in Identity Management, Malware Analysis, and securing Network, Endpoint, and Cloud environments. Experienced in risk assessment, threat detection, and implementing security measures to safeguard digital assets, while continuously enhancing skills in network defense and advanced cybersecurity techniques.
+To apply my strong foundation in cybersecurity to specialize in fortifying systems and networks against evolving threats. Driven by a passion for building robust defense mechanisms, I aim to use my expertise in identifying vulnerabilities and deploying strategies to safeguard data from complex cyber attacks. Committed to staying prepared and continuously evolving in the ever-changing cybersecurity landscape.
 
 ## Skills
 
 | No. |    Skills    |   Projects   |
 |-----|--------------|--------------|
 | 1 | Networking practicals including IP addressing, routing protocols, and network security done using Cisco Packet Tracer | <a href="https://github.com/NgethaWachira/Networking-Practicals">Practical Networking Walkthrough</a>|
-| 2 | Phishing Analysis Report: Email Security Alert Impersonation | <a href="https://github.com/NgethaWachira/Phishing-Analysis/tree/main">Phishing Analysis Report</a>|
-| 3 | Using a Sandbox Virtual Environment for Malware Analysis and Detection | <a href="https://github.com/NgethaWachira/Virtual-Malware-Analysis-Lab/tree/main">Virtual Malware Analysis Lab</a>|
-| 4 | Creating a Domain Environment: Integrating Active Directory, Splunk, and Threat Simulation using Kali Linux | <a href="https://github.com/NgethaWachira/Setting-up-a-Domain-Environment/tree/main">Setting up a Domain Environment</a>|
+| 2 | Phishing Analysis Report: Email Security Alert Impersonation | <a href="https://github.com/NgethaWachira/Phishing-Analysis">Phishing Analysis Report</a>|
+| 3 | Using a Sandbox Virtual Environment for Malware Analysis and Detection | <a href="https://github.com/NgethaWachira/Virtual-Malware-Analysis-Lab">Virtual Malware Analysis Lab</a>|
+| 4 | Creating a Domain Environment: Integrating Active Directory, Splunk, and Threat Simulation using Kali Linux | <a href="https://github.com/NgethaWachira/Setting-up-a-Domain-Environment">Setting up a Domain Environment</a>|
 | 5 | Setting Up and Securing Virtual Machines in Azure with Microsoft 365 Defender and Intune | <a href="https://github.com/NgethaWachira/Microsoft-Virtual-machine">Microsoft-Virtual-machine</a>|
 | 6 | Setting up and Configuring Microsoft Sentinel in an Azure environment | <a href="https://github.com/NgethaWachira/Configuring-Microsoft-Sentinel">Configuring-Microsoft-Sentinel</a>|
 | 7 | Setting Up Azure Security and Phishing Simulation with Microsoft Defender | <a href="https://github.com/NgethaWachira/Azure-Security-and-Simulation">Azure-Security-and-Simulation</a>|
@@ -56,9 +53,9 @@ Cybersecurity professional with hands-on experience in Identity Management, Malw
 
 ## Projects
 - <a href="https://github.com/NgethaWachira/Networking-Practicals">Practical Networking Walkthrough</a>
-- <a href="https://github.com/NgethaWachira/Phishing-Analysis/tree/main">Phishing Analysis Report</a>
-- <a href="https://github.com/NgethaWachira/Virtual-Malware-Analysis-Lab/tree/main">Virtual Malware Analysis Lab</a>
-- <a href="https://github.com/NgethaWachira/Setting-up-a-Domain-Environment/tree/main">Setting up a Domain Environment</a>
+- <a href="https://github.com/NgethaWachira/Phishing-Analysis">Phishing Analysis Report</a>
+- <a href="https://github.com/NgethaWachira/Virtual-Malware-Analysis-Lab">Virtual Malware Analysis Lab</a>
+- <a href="https://github.com/NgethaWachira/Setting-up-a-Domain-Environment">Setting up a Domain Environment</a>
 - <a href="https://github.com/NgethaWachira/Microsoft-Virtual-machine">Microsoft-Virtual-machine</a>
 - <a href="https://github.com/NgethaWachira/Configuring-Microsoft-Sentinel">Configuring-Microsoft-Sentinel</a>
 - <a href="https://github.com/NgethaWachira/Azure-Security-and-Simulation">Azure-Security-and-Simulation</a>
