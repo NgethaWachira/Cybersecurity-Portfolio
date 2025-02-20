@@ -27,25 +27,35 @@ To apply my strong foundation in cybersecurity to specialize in fortifying syste
 | 12 | Exploring Threat Management and Hunting Queries in Microsoft Sentinel | <a href="https://github.com/NgethaWachira/Investigating-Threats-Using-Sentinel-Queries">Investigating Threats Using Sentinel Queries</a>|
 
 ## Tools
+<br>
 
 > "A tool is just a tool—it’s the skill and knowledge behind it that truly matter. Once you understand how to use one tool effectively, that knowledge can easily be applied to others."
-</br>
+
 
 ### SIEM
 ![Splunk](https://img.shields.io/badge/-Splunk-e000a3?&style=for-the-badge&logo=Splunk&logoColor=white)
 ![Microsoft Sentinel](https://img.shields.io/badge/-Microsoft_Sentinel-00A3E0?&style=for-the-badge&logo=microsoft&logoColor=white)
+![Elastic Stack](https://img.shields.io/badge/-Elastic_Stack-994d00?&style=for-the-badge&logo=elastic&logoColor=white)
 
 ### EDR
 ![CrowdStrike](https://img.shields.io/badge/-CrowdStrike-F86C6A?&style=for-the-badge&logo=crowdstrike&logoColor=white)
-![Microsoft Defender](https://img.shields.io/badge/-Microsoft_Defender-1E2A78?&style=for-the-badge&logo=microsoft&logoColor=white)
+![Microsoft Defender for Endpoint](https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-77773c?&style=for-the-badge&logo=microsoft&logoColor=white)
 
 ### Cloud
 ![Microsoft Azure](https://img.shields.io/badge/-Microsoft_Azure-00fac1?&style=for-the-badge&logo=microsoft&logoColor=white)
 
+### Task Management
+![ServiceNow](https://img.shields.io/badge/-ServiceNow-ffff4d?&style=for-the-badge&logo=servicenow&logoColor=white)
+
 ### Network
 ![Wireshark](https://img.shields.io/badge/-Wireshark-7cfc00?&style=for-the-badge&logo=Wireshark&logoColor=white)
 ![Suricata](https://img.shields.io/badge/-Suricata-A03A2E?&style=for-the-badge&logo=suricata&logoColor=white)
+![Nmap](https://img.shields.io/badge/-Nmap-ffb3ff?&style=for-the-badge&logo=nmap&logoColor=white)
 
+### Identity
+![Microsoft Azure Active Directory](https://img.shields.io/badge/-Azure_Active_Directory-e6f9ff?&style=for-the-badge&logo=microsoft-azure&logoColor=white)
+
+<br>
 
 ## Certifications
 <div style="display: flex; flex-wrap: wrap;">
