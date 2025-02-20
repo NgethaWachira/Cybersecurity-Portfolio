@@ -28,6 +28,9 @@ To apply my strong foundation in cybersecurity to specialize in fortifying syste
 
 ## Tools
 
+> "A tool is just a tool—it’s the skill and knowledge behind it that truly matter. Once you understand how to use one tool effectively, that knowledge can easily be applied to others."
+</br>
+
 ### SIEM
 ![Splunk](https://img.shields.io/badge/-Splunk-e000a3?&style=for-the-badge&logo=Splunk&logoColor=white)
 ![Microsoft Sentinel](https://img.shields.io/badge/-Microsoft_Sentinel-00A3E0?&style=for-the-badge&logo=microsoft&logoColor=white)
@@ -42,6 +45,7 @@ To apply my strong foundation in cybersecurity to specialize in fortifying syste
 ### Network
 ![Wireshark](https://img.shields.io/badge/-Wireshark-7cfc00?&style=for-the-badge&logo=Wireshark&logoColor=white)
 ![Suricata](https://img.shields.io/badge/-Suricata-A03A2E?&style=for-the-badge&logo=suricata&logoColor=white)
+
 
 ## Certifications
 <div style="display: flex; flex-wrap: wrap;">
