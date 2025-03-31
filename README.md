@@ -13,7 +13,7 @@ To apply my strong foundation in cybersecurity to specialize in fortifying syste
 
 | No. |    Skills    |   Projects   |
 |-----|--------------|--------------|
-| 1 | Networking practicals including IP addressing, routing protocols, and network security done using Cisco Packet Tracer | <a href="https://github.com/NgethaWachira/Networking-Practicals">Practical Networking Walkthrough</a>|
+| 1 | Networking practicals including IP addressing, routing protocols, and network security simulations done using Cisco Packet Tracer | <a href="https://github.com/NgethaWachira/Networking-Practicals">Practical Networking Walkthrough</a>|
 | 2 | Phishing Analysis Report: Email Security Alert Impersonation | <a href="https://github.com/NgethaWachira/Phishing-Analysis">Phishing Analysis Report</a>|
 | 3 | Using a Sandbox Virtual Environment for Malware Analysis and Detection | <a href="https://github.com/NgethaWachira/Virtual-Malware-Analysis-Lab">Virtual Malware Analysis Lab</a>|
 | 4 | Creating a Domain Environment: Integrating Active Directory, Splunk, and Threat Simulation using Kali Linux | <a href="https://github.com/NgethaWachira/Setting-up-a-Domain-Environment">Setting up a Domain Environment</a>|
