@@ -57,6 +57,7 @@ To apply my strong foundation in cybersecurity to specialize in fortifying syste
 
 ## Certifications
 <div style="display: flex; flex-wrap: wrap;">
+  <img src="https://img.shields.io/badge/-Microsoft_SC_200-0078D4?&style=for-the-badge&logo=microsoft&logoColor=white" alt="Microsoft SC-200" />
   <img src="https://img.shields.io/badge/-Blue_Team_Level_1-fac100?&style=for-the-badge&logo=security&logoColor=white" alt="Blue Team Level 1" />
   <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" alt="CompTIA Security+" />
   <img src="https://img.shields.io/badge/-Microsoft_SC_900-008040?&style=for-the-badge&logo=microsoft&logoColor=white" alt="Microsoft SC-900" />
