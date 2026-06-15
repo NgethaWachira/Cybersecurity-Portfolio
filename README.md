@@ -13,6 +13,7 @@ To apply my strong foundation in cybersecurity to specialize in fortifying syste
 
 | No. |    Skills    |   Projects   |
 |-----|--------------|--------------|
+| ** | 🔴 **Fully autonomous, AI-driven, end-to-end SOC triage pipeline** | [Automated AI-driven SOC triage](https://github.com/NgethaWachira/MSSP-SOC-Automation) |
 | 1 | Networking practicals including IP addressing, routing protocols, and network security simulations done using Cisco Packet Tracer | <a href="https://github.com/NgethaWachira/Networking-Practicals">Practical Networking Walkthrough</a>|
 | 2 | Phishing Analysis Report: Email Security Alert Impersonation | <a href="https://github.com/NgethaWachira/Phishing-Analysis">Phishing Analysis Report</a>|
 | 3 | Using a Sandbox Virtual Environment for Malware Analysis and Detection | <a href="https://github.com/NgethaWachira/Virtual-Malware-Analysis-Lab">Virtual Malware Analysis Lab</a>|
@@ -25,7 +26,7 @@ To apply my strong foundation in cybersecurity to specialize in fortifying syste
 | 10 | Implementing UEBA, Auditing, and Content Search in Microsoft Sentinel and Azure | <a href="https://github.com/NgethaWachira/Sentinel-Behavior-Analytics-and-Auditing">Sentinel-Behavior-Analytics-and-Auditing</a>|
 | 11 | Incident Management and Response in Microsoft Sentinel | <a href="https://github.com/NgethaWachira/Managing-Incidents-in-Microsoft-Sentinel">Managing Incidents in Microsoft Sentinel</a>|
 | 12 | Exploring Threat Management and Hunting Queries in Microsoft Sentinel | <a href="https://github.com/NgethaWachira/Investigating-Threats-Using-Sentinel-Queries">Investigating Threats Using Sentinel Queries</a>|
-| 12 | Fully autonomous, AI-driven, end-to-end SOC triage pipeline | <a href="https://github.com/NgethaWachira/MSSP-SOC-Automation">Automated AI-driven SOC triage</a>|
+
 
 ## Tools
 <br>
