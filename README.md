@@ -25,6 +25,7 @@ To apply my strong foundation in cybersecurity to specialize in fortifying syste
 | 10 | Implementing UEBA, Auditing, and Content Search in Microsoft Sentinel and Azure | <a href="https://github.com/NgethaWachira/Sentinel-Behavior-Analytics-and-Auditing">Sentinel-Behavior-Analytics-and-Auditing</a>|
 | 11 | Incident Management and Response in Microsoft Sentinel | <a href="https://github.com/NgethaWachira/Managing-Incidents-in-Microsoft-Sentinel">Managing Incidents in Microsoft Sentinel</a>|
 | 12 | Exploring Threat Management and Hunting Queries in Microsoft Sentinel | <a href="https://github.com/NgethaWachira/Investigating-Threats-Using-Sentinel-Queries">Investigating Threats Using Sentinel Queries</a>|
+| 12 | Fully autonomous, AI-driven, end-to-end SOC triage pipeline | <a href="https://github.com/NgethaWachira/MSSP-SOC-Automation">Automated AI-driven SOC triage</a>|
 
 ## Tools
 <br>
