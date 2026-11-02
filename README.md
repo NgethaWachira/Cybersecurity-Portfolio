@@ -13,7 +13,7 @@ To apply my strong foundation in cybersecurity to specialize in fortifying syste
 
 | No. |    Skills    |   Projects   |
 |-----|--------------|--------------|
-| *** | **💡 Fully autonomous, AI-driven, end-to-end SOC triage pipeline**| [Automated AI-driven SOC triage](https://github.com/NgethaWachira/Building-a-Simulated-MSSP-Environment) |
+| *** | **💡 Fully autonomous, AI-driven, end-to-end SOC triage pipeline within an MSSP environment**| [Automated AI-driven SOC triage](https://github.com/NgethaWachira/Building-a-Simulated-MSSP-Environment) |
 | 1 | Networking practicals including IP addressing, routing protocols, and network security simulations done using Cisco Packet Tracer | <a href="https://github.com/NgethaWachira/Networking-Practicals">Practical Networking Walkthrough</a>|
 | 2 | Phishing Analysis Report: Email Security Alert Impersonation | <a href="https://github.com/NgethaWachira/Phishing-Analysis">Phishing Analysis Report</a>|
 | 3 | Using a Sandbox Virtual Environment for Malware Analysis and Detection | <a href="https://github.com/NgethaWachira/Virtual-Malware-Analysis-Lab">Virtual Malware Analysis Lab</a>|
